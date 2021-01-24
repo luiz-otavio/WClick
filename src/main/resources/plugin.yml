@@ -1,0 +1,4 @@
+name: WClick
+version: @version@
+main: io.github.aluria.wclick.WClick
+authors: [ Wizard ]

@@ -1,0 +1,33 @@
+Actions:
+  Default:
+    Id: 1
+
+    Name: 'Default'
+    Delay: 3
+
+    Icon:
+      Name: '§eAuto Clicker: Default'
+
+      Lore:
+        - '§7A default auto-clicker.'
+        -
+      Texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzNiYTlhOTQ4ZWYxMjVhYWZkYjZiYzkxYmU2YzgwNGQ3MWFlZTE2NGJhMjE5N2IwYjIyNWE4NDdmZmYwNDhjMCJ9fX0='
+
+      Type: '397:3'
+      Amount: 1
+  VIP:
+    Id: 2
+
+    Name: 'VIP'
+    Delay: 1
+
+    Icon:
+      Name: '§eAuto Clicker: VIP'
+
+      Lore:
+        - '§7Only VIP auto-clicker.'
+        -
+      Texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzNiYTlhOTQ4ZWYxMjVhYWZkYjZiYzkxYmU2YzgwNGQ3MWFlZTE2NGJhMjE5N2IwYjIyNWE4NDdmZmYwNDhjMCJ9fX0='
+
+      Type: '397:3'
+      Amount: 1
